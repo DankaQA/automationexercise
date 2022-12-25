@@ -10,6 +10,11 @@ namespace AutomationExerciseFramework.Pages
     {
         readonly IWebDriver _driver;
         public By contactPage = By.Id("contact-page");
+        public By name = By.Name("name");
+        public By email = By.Name("email");
+        public By subject = By.Name("subject");
+        public By message = By.Id("message");
+        public By form = By.Id("contact-us-form");
 
         public ContactUsPage(IWebDriver driver)
         {

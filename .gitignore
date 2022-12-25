@@ -1,0 +1,8 @@
+*.dll
+*.v2
+*.suo
+*.testlog
+*.manifest
+*.pdb
+*.tmp
+*.cache

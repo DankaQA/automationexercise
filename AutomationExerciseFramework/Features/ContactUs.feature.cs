@@ -106,7 +106,8 @@ testRunner.And("user submits contact us form", ((string)(null)), ((TechTalk.Spec
 testRunner.And("confirms the prompt message", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 12
-testRunner.Then("user will receive \'Success! Your details have been submitted.\' message", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+testRunner.Then("user will receive \'Success! Your details have been submitted successfully.\' messa" +
+                        "ge", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();
