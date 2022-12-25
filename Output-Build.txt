@@ -1,0 +1,12 @@
+﻿Build started...
+1>------ Build started: Project: AutomationExerciseFramework, Configuration: Debug Any CPU ------
+1>SpecFlowFeatureFiles: Features\Autentication.feature
+1>-> Using default config
+1>SpecFlowGeneratedFiles: Features\Autentication.feature.cs
+1>C:\Users\DELL\source\repos\AutomationExerciseFramework\AutomationExerciseFramework\Steps\AutenticationSteps.cs(12,13,12,36): warning CS0618: 'ScenarioContext.Current' is obsolete: 'Please get the ScenarioContext via Context Injection - https://go.specflow.org/Migrate-ScenarioContext-Current'
+1>C:\Users\DELL\source\repos\AutomationExerciseFramework\AutomationExerciseFramework\Steps\AutenticationSteps.cs(18,13,18,36): warning CS0618: 'ScenarioContext.Current' is obsolete: 'Please get the ScenarioContext via Context Injection - https://go.specflow.org/Migrate-ScenarioContext-Current'
+1>C:\Users\DELL\source\repos\AutomationExerciseFramework\AutomationExerciseFramework\Steps\AutenticationSteps.cs(24,13,24,36): warning CS0618: 'ScenarioContext.Current' is obsolete: 'Please get the ScenarioContext via Context Injection - https://go.specflow.org/Migrate-ScenarioContext-Current'
+1>C:\Users\DELL\source\repos\AutomationExerciseFramework\AutomationExerciseFramework\Steps\AutenticationSteps.cs(30,13,30,36): warning CS0618: 'ScenarioContext.Current' is obsolete: 'Please get the ScenarioContext via Context Injection - https://go.specflow.org/Migrate-ScenarioContext-Current'
+1>AutomationExerciseFramework -> C:\Users\DELL\source\repos\AutomationExerciseFramework\AutomationExerciseFramework\bin\Debug\netcoreapp3.1\AutomationExerciseFramework.dll
+1>Done building project "AutomationExerciseFramework.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
